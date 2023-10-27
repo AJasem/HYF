@@ -1,0 +1,8 @@
+git branch 'name' to start a new branch
+git add to add files to get 
+get commit -m '' to make the commit 
+get rm --cached  to remove files from git 
+git checkout 'branch name' to switch to anthor branch 
+git branch -m to rename the branch 
+git branch -d or -D to delete a branch
+ 
